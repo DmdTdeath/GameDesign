@@ -1,2 +1,2 @@
 # GameDesign    
-This is my main website design
+This is my Portfolio Website
